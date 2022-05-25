@@ -1,0 +1,24 @@
+\begin{table}
+\centering
+\caption{Betrieb der Düse mit der Spannung $U$ und die dazu korrespondierende Steigstrecke $x$ mit einem Ablesefehler von $\Delta x = \pm \SI{0.5}{mm}$ mit der Schräg\-einstellung $\alpha$ des Schräg\-rohr\-mano\-meters. Berechnung der Geschwindigkeit $v$ über Gl. (\ref{eq:Prandlt_dyn_Druck}}
+\label{tab:Kalibrierung_Prandtl_Rohr}
+\begin{tabular}{rrrrr}
+\toprule
+ $U / \mathrm{V}$ &  $x / \mathrm{mm}$ &  $\alpha$ &  $v / \mathrm{m/s}$ &  $\Delta v / \mathrm{m/s}$ \\
+\midrule
+              0.3 &             0.0010 &      0.04 &               0.730 &                      0.180 \\
+              0.6 &             0.0125 &      0.04 &               2.569 &                      0.051 \\
+              1.5 &             0.0920 &      0.04 &               6.970 &                      0.019 \\
+              2.0 &             0.1640 &      0.04 &               9.305 &                      0.014 \\
+              2.0 &             0.0760 &      0.10 &              10.016 &                      0.033 \\
+              2.5 &             0.1100 &      0.10 &              12.050 &                      0.027 \\
+              3.0 &             0.1500 &      0.10 &              14.071 &                      0.023 \\
+              3.0 &             0.0830 &      0.20 &              14.802 &                      0.045 \\
+              3.7 &             0.1200 &      0.20 &              17.799 &                      0.037 \\
+              4.3 &             0.1580 &      0.20 &              20.423 &                      0.032 \\
+              4.3 &             0.0600 &      0.50 &              19.899 &                      0.083 \\
+              5.0 &             0.0860 &      0.50 &              23.824 &                      0.069 \\
+              5.5 &             0.1025 &      0.50 &              26.009 &                      0.063 \\
+\bottomrule
+\end{tabular}
+\end{table}
