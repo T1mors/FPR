@@ -1,0 +1,34 @@
+\begin{table}
+\centering
+\caption{Messdaten für den ISA Chrom 60 Heizdraht aus Kap. \ref{Kap:Heizdraht-Anemometer}. Links: CTA Modus, Änderung der Versorgespannung $U_0$ für verschiedene Ausgangsspannungen $U_{0,8}=\SI{8}{V},U_{0,10}=\SI{10}{V}$ und $U_{0,12}=\SI{12}{V}$ bei der Düsenspannung $U$, um die Schaltung abzugleichen. Rechts: CCA Modus, Messung der verstärkten Brückenspannung $U_B$ bei konstanter Versorgespannung $U_0=\SI{12}{V}$.}
+\label{tab:Heizdraht_CTA_CCA}
+\begin{tabular}{rrrrr}
+\toprule
+ $U / \mathrm{V}$ &  $U_{0,8} / \mathrm{V}$ &  $U_{0,10} / \mathrm{V}$ &  $U_{0,12} / \mathrm{V}$ &  $U_B / \mathrm{V}$ \\
+\midrule
+              0.0 &                    8.08 &                    10.07 &                    12.07 &               -4.32 \\
+              0.3 &                    8.10 &                    10.20 &                    12.20 &               -4.15 \\
+              0.4 &                   11.70 &                    13.80 &                    14.50 &               -2.77 \\
+              0.5 &                   12.80 &                    14.80 &                    15.20 &               -2.40 \\
+              0.6 &                   13.00 &                    15.10 &                    15.60 &               -2.21 \\
+              0.7 &                   13.14 &                    15.40 &                    16.00 &               -2.07 \\
+              0.8 &                   12.90 &                    15.70 &                    16.20 &               -1.92 \\
+              0.9 &                   13.10 &                    15.90 &                    16.50 &               -1.80 \\
+              1.0 &                   13.26 &                    16.30 &                    16.70 &               -1.67 \\
+              1.1 &                   13.50 &                    16.50 &                    16.90 &               -1.59 \\
+              1.2 &                   13.80 &                    16.90 &                    17.00 &               -1.48 \\
+              1.3 &                   13.90 &                    17.25 &                    17.25 &               -1.39 \\
+              1.4 &                   14.00 &                    17.50 &                    17.65 &               -1.31 \\
+              1.5 &                   14.10 &                    17.80 &                    18.10 &               -1.23 \\
+              1.7 &                   13.70 &                    18.00 &                    18.50 &               -1.12 \\
+              1.9 &                   14.30 &                    18.40 &                    19.10 &               -1.04 \\
+              2.1 &                   14.40 &                    18.70 &                    19.30 &               -0.95 \\
+              2.3 &                   14.50 &                    19.00 &                    19.80 &               -0.92 \\
+              2.5 &                   14.60 &                    19.25 &                    19.90 &               -0.86 \\
+              2.8 &                   14.90 &                    19.60 &                          &               -0.79 \\
+              3.1 &                   15.00 &                          &                          &               -0.73 \\
+              3.4 &                   15.20 &                          &                          &               -0.67 \\
+              3.7 &                   15.40 &                          &                          &               -0.63 \\
+\bottomrule
+\end{tabular}
+\end{table}

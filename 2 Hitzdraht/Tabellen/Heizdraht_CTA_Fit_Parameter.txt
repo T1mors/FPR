@@ -1,0 +1,14 @@
+\begin{table}
+\centering
+\caption{???}
+\label{tab:Heizdraht_CTA_Fit_Parameter}
+\begin{tabular}{lllllll}
+\toprule
+$U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \frac{m}{s}$ & $m / \frac{m}{sV^4}$ & $\Delta m / \frac{m}{sV^4}$ & $B / \mathrm{V}$ & $\Delta B / \mathrm{V}$ \\
+\midrule
+                 8 &                           1.16 &                                  0.55 &              1.1E-02 &                     3.2E-03 &             9.13 &                    0.47 \\
+                10 &                           1.23 &                                  0.19 &              5.8E-04 &                     7.9E-05 &             7.61 &                    0.43 \\
+                12 &                           0.19 &                                  0.63 &              2.0E-04 &                     7.5E-05 &              4.5 &                     1.6 \\
+\bottomrule
+\end{tabular}
+\end{table}

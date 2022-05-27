@@ -1,0 +1,14 @@
+\begin{table}
+\centering
+\caption{???}
+\label{tab:Fahrrad_CTA_Fit_Parameter}
+\begin{tabular}{lllllll}
+\toprule
+$U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \frac{m}{s}$ & $m / \frac{m}{sV^4}$ & $\Delta m / \frac{m}{sV^4}$ & $B / \mathrm{V}$ & $\Delta B / \mathrm{V}$ \\
+\midrule
+               0.8 &                           0.79 &                                  0.14 &              3.6E+01 &                     2.8E+00 &           -0.227 &                   0.016 \\
+                 1 &                           0.93 &                                  0.14 &              2.3E+01 &                     2.0E+00 &           -0.221 &                    0.02 \\
+               1.2 &                           0.86 &                                  0.12 &              1.0E+01 &                     7.1E-01 &           -0.302 &                    0.02 \\
+\bottomrule
+\end{tabular}
+\end{table}

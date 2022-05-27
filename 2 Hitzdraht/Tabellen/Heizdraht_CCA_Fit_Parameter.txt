@@ -1,0 +1,13 @@
+\begin{table}
+\centering
+\caption{???}
+\label{tab:Heizdraht_CCA_Fit_Parameter}
+\begin{tabular}{lllllll}
+\toprule
+ $U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \frac{m}{s}$ & $m / \frac{m}{sV^4}$ & $\Delta m / \frac{m}{sV^4}$ & $B / \mathrm{V}$ & $\Delta B / \mathrm{V}$ \\
+\midrule
+     12, alle Werte &                           2.22 &                                  0.26 &              2.7E-01 &                     5.6E-02 &            -3.33 &                    0.14 \\
+ 12, erste 10 Werte &                          1.398 &                                 0.056 &              4.8E-02 &                     5.5E-03 &           -4.574 &                   0.092 \\
+\bottomrule
+\end{tabular}
+\end{table}

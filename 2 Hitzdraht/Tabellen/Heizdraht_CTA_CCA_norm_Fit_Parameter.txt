@@ -1,0 +1,13 @@
+\begin{table}
+\centering
+\caption{???}
+\label{tab:Heizdraht_CTA_CCA_norm_Fit_Parameter}
+\begin{tabular}{lllllll}
+\toprule
+$U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \frac{m}{s}$ & $m / \frac{m}{sV^4}$ & $\Delta m / \frac{m}{sV^4}$ & $B / \mathrm{V}$ & $\Delta B / \mathrm{V}$ \\
+\midrule
+               CTA &                           0.19 &                                  0.63 &              3.2E+01 &                     1.2E+01 &            0.227 &                   0.079 \\
+               CCA &                           2.22 &                                  0.26 &              5.0E+01 &                     1.0E+01 &            0.269 &                   0.038 \\
+\bottomrule
+\end{tabular}
+\end{table}
