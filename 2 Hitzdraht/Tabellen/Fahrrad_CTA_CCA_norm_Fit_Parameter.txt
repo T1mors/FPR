@@ -1,0 +1,14 @@
+\begin{table}
+\centering
+\caption{Vergleich der Fitparameter für Gl. (\ref{eq:Kings_Law}) für die normierten Spannungen im CTA und CCA Modus des Fahrradglühdrahtes. Für \enquote{CTA - verschoben} wurden die Daten vor der Normierung wie im CCA Modus erst auf $U_0 = \SI{0}{V}$ verschoben.}
+\label{tab:Fahrrad_CTA_CCA_norm_Fit_Parameter}
+\begin{tabular}{lllllll}
+\toprule
+$U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \frac{m}{s}$ & $m / \frac{m}{sV^4}$ & $\Delta m / \frac{m}{sV^4}$ & $B / \mathrm{V}$ & $\Delta B / \mathrm{V}$ \\
+\midrule
+               CTA &                           0.79 &                                  0.14 &              1.2E+02 &                     9.7E+00 &            0.421 &                   0.012 \\
+               CCA &                           1.72 &                                  0.13 &              3.3E+01 &                     3.5E+00 &            0.216 &                   0.021 \\
+  CTA - verschoben &                           0.79 &                                  0.14 &              3.6E+00 &                     2.8E-01 &           -0.405 &                   0.029 \\
+\bottomrule
+\end{tabular}
+\end{table}

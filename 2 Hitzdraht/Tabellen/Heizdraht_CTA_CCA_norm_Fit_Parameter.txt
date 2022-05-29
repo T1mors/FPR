@@ -1,6 +1,6 @@
 \begin{table}
 \centering
-\caption{???}
+\caption{Vergleich der Fitparameter für Gl. (\ref{eq:Kings_Law}) für die normierten Spannungen im CTA und CCA Modus des Chrom 60 Heizdrahtes. Für \enquote{CTA - verschoben} wurden die Daten vor der Normierung wie im CCA Modus erst auf $U_0 = \SI{0}{V}$ verschoben.}
 \label{tab:Heizdraht_CTA_CCA_norm_Fit_Parameter}
 \begin{tabular}{lllllll}
 \toprule
@@ -8,6 +8,7 @@ $U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \
 \midrule
                CTA &                           0.19 &                                  0.63 &              3.2E+01 &                     1.2E+01 &            0.227 &                   0.079 \\
                CCA &                           2.22 &                                  0.26 &              5.0E+01 &                     1.0E+01 &            0.269 &                   0.038 \\
+  CTA - verschoben &                           0.19 &                                  0.63 &              7.8E-01 &                     2.8E-01 &            -0.96 &                     0.2 \\
 \bottomrule
 \end{tabular}
 \end{table}

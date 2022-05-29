@@ -1,6 +1,6 @@
 \begin{table}
 \centering
-\caption{???}
+\caption{Parameter und Fehler für den Fit in Abb. \ref{fig:Heizdraht_CTA} mit Gl. (\ref{eq:Kings_Law}) im CTA Modus.}
 \label{tab:Heizdraht_CTA_Fit_Parameter}
 \begin{tabular}{lllllll}
 \toprule

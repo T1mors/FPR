@@ -1,0 +1,12 @@
+\begin{table}
+\centering
+\caption{Parameter und Fehler für den Fit in Abb. \ref{fig:Fahrrad_CCA} mit Gl. (\ref{eq:Kings_Law}) für den Fahrradglühdraht im CCA Modus.}
+\label{tab:Fahrrad_CCA_Fit_Parameter}
+\begin{tabular}{lllllll}
+\toprule
+$U_0 / \mathrm{V}$ & $\mathrm{const} / \frac{m}{s}$ & $\Delta \mathrm{const} / \frac{m}{s}$ & $m / \frac{m}{sV^4}$ & $\Delta m / \frac{m}{sV^4}$ & $B / \mathrm{V}$ & $\Delta B / \mathrm{V}$ \\
+\midrule
+               0.8 &                           1.72 &                                  0.13 &              1.9E-02 &                     2.0E-03 &            -3.11 &                    0.13 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,12 +1,12 @@
 \begin{table}
 \centering
-\caption{???}
+\caption{Messdaten zum im CTA-Modus betriebenen ISA Chrom 60 Heizdraht-Anemometer aus Kap. \ref{Kap:Heizdraht-Anemometer}. Änderung der Versorgespannung $U_0$ für verschiedene Ausgangsspannungen $U_{0,8}=\SI{8}{V},U_{0,10}=\SI{10}{V}$ und $U_{0,12}=\SI{12}{V}$ bei der Düsenspannung $U$, um die Schaltung abzugleichen. Aufgrund der maximalen Spannungsversorgung können für einige Spannungen $U$ die Versorgespannungen $U_0$ nicht weiter erhöht werden.}
 \label{tab:Heizdraht_CTA}
 \begin{tabular}{rrrr}
 \toprule
  $U / \mathrm{V}$ &  $U_{0,8} / \mathrm{V}$ &  $U_{0,10} / \mathrm{V}$ &  $U_{0,12} / \mathrm{V}$ \\
 \midrule
-              0.0 &                    8.08 &                    10.07 &                    12.07 \\
+              0.0 &                    8.05 &                    10.05 &                    12.05 \\
               0.3 &                    8.10 &                    10.20 &                    12.20 \\
               0.4 &                   11.70 &                    13.80 &                    14.50 \\
               0.5 &                   12.80 &                    14.80 &                    15.20 \\
