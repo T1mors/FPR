@@ -1,0 +1,22 @@
+\begin{table}[H]
+\centering
+\caption{Laufzeit des Simplex-Algorithmus für verschiedene Systemgrößen $N$ bei der Konnektivität $c=4$ und $10^3$ Realisierungen.}
+\label{tab:Mod2_Laufzeit_Daten}
+\begin{tabular}{rr}
+\toprule
+ $N$ &  $t$ / s \\
+\midrule
+  10 &    0.126 \\
+  20 &    0.263 \\
+  40 &    0.618 \\
+  60 &    1.162 \\
+  80 &    1.881 \\
+ 120 &    3.937 \\
+ 160 &    6.851 \\
+ 240 &   15.627 \\
+ 320 &   28.888 \\
+ 460 &   63.871 \\
+ 640 &  133.718 \\
+\bottomrule
+\end{tabular}
+\end{table}

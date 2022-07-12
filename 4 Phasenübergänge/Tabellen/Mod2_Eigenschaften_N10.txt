@@ -1,0 +1,17 @@
+\begin{table}[H]
+\centering
+\caption{Eigenschaften der Graphen aus Abb. \ref{fig:Mod2_N10_verschiedene_c}. Kardinalität der größten zusammenhängenden Komponente $|V_{\mathrm{zsmh.}^{\mathrm{max}}}|$, Anzahl der Zyklen $num_{\mathrm{Zyklus}}$ \cite{misc:StackOverflowZyklen} und erfolgreiches Finden einer vollständigen Lösung.}
+\label{tab:Mod2_N10_verschiedene_c_Eigenschaften}
+\begin{tabular}{rrl}
+\toprule
+ $|V_{\mathrm{zsmh.}}^{\mathrm{max}}|$ &  $num_{\mathrm{Zyklus}}$ & \makecell{Vollständige\\Lösung} \\
+\midrule
+                                     3 &                        0 &                      \checkmark \\
+                                     6 &                        0 &                      \checkmark \\
+                                     8 &                        0 &                      \checkmark \\
+                                     9 &                        3 &                      \checkmark \\
+                                    10 &                       33 &                      \checkmark \\
+                                    10 &                    11095 &                          \xmark \\
+\bottomrule
+\end{tabular}
+\end{table}
