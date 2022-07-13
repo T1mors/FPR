@@ -1,0 +1,65 @@
+\begin{figure}[H]
+\centering
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_CP_n10_m22_s1004_0.dot.pdf}
+    \caption{}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_CP_n10_m22_s1004_1.dot.pdf}
+    \caption{}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+        \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_ST_n10_m22_s1004_1.dot_neato.pdf}
+    \caption{}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_CP_n10_m22_s1004_2.dot.pdf}
+    \caption{}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_ST_n10_m22_s1004_2.dot_neato.pdf}
+    \caption{}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_CP_n10_m22_s1004_3.dot.pdf}
+    \caption{}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_ST_n10_m22_s1004_3.dot_neato.pdf}
+    \caption{}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_CP_n10_m22_s1004_4.dot.pdf}
+    \caption{}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_ST_n10_m22_s1004_4.dot_neato.pdf}
+    \caption{}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_CP_n10_m22_s1004_5.dot.pdf}
+    \caption{}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[height=\textwidth]{Abb/Mod4/Aufg4/VC_graph_ST_n10_m22_s1004_5.dot_neato.pdf}
+    \caption{}
+\end{subfigure}
+\caption{Simplex-Algorithmus mit CuttingPlanes: (a)-(c) Covergröße $x(N,c)$ in Abhängigkeit der Netzwerkgröße $N$ für drei verschiedene Konnektivitäten $c\in \{0.8, 2, 8\}$. (d)-(f) Residuen zwischen den Datenpunkten mit Einbezug ihrer Standardfehler und der Fit-Funktion.}
+\label{fig:Mod4_Aufg4_Cutting_Beispiel}
+\end{figure}
