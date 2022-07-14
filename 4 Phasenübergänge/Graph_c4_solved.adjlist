@@ -1,0 +1,3 @@
+#/home/timo/miniconda3/lib/python3.8/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9023 --control=9021 --hb=9020 --Session.signature_scheme="hmac-sha256" --Session.key=b"fb8c83b3-fbee-4032-b2e8-7205eaba3a5b" --shell=9022 --transport="tcp" --iopub=9024 --f=/home/timo/.local/share/jupyter/runtime/kernel-19120O1GLjUplxXqG.json
+# GMT Thu Jul 14 18:43:03 2022
+# 
