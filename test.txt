@@ -1,131 +1,105 @@
 \begin{figure}[H]
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c0.40_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c0.40_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c0.60_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c0.60_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c0.80_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c0.80_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c1.00_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c1.00_CP.pdf}
 \end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c1.20_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c1.40_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c1.60_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c1.80_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c2.00_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c2.20_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c2.40_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c2.60_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c2.80_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c3.00_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c3.20_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c3.40_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c3.60_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c3.80_Basic.pdf}
-    
-\end{subfigure}
-\begin{subfigure}{0.24\textwidth}
-    \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c4.00_Basic.pdf}
-    
-\end{subfigure}
-\caption{Zu Modul 1: Fitfunktionen gemäß Gl. (\ref{eq:Fit_Covergröße}) für alle Covergrößen $c\in[0.4,8]$.}
-\label{fig:Anhang_Mod2_AllePDFs}
-\end{figure}
 
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c1.20_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c1.40_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c1.60_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c1.80_CP.pdf}
+\end{subfigure}
 
-\begin{figure}[H]
-\ContinuedFloat
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c5.00_Basic.pdf}
-    
-    \label{fig:Mod2_x(N,c)_über_c_0.80}
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c2.00_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c6.00_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c2.20_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c7.00_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c2.40_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c7.00_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c2.60_CP.pdf}
+\end{subfigure}
+
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c2.80_CP.pdf}
 \end{subfigure}
 \begin{subfigure}{0.24\textwidth}
     \centering
-    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod2/AllePDFs/Xc_for_c8.00_Basic.pdf}
-    
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c3.00_CP.pdf}
 \end{subfigure}
-\caption{Zu Modul 1: Fitfunktionen gemäß Gl. (\ref{eq:Fit_Covergröße}) für alle Covergrößen $c\in[0.4,8]$.}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c3.20_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c3.40_CP.pdf}
+\end{subfigure}
+
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c3.60_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c3.80_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c4.00_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c5.00_CP.pdf}
+\end{subfigure}
+
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c6.00_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c7.00_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c7.00_CP.pdf}
+\end{subfigure}
+\begin{subfigure}{0.24\textwidth}
+    \centering
+    \includegraphics[width=\linewidth, trim=3cm 0cm 3.4cm 0cm, clip]{Abb/Mod4/AllePDFs/Xc_for_c8.00_CP.pdf}
+\end{subfigure}
+\caption{Zu Modul 1: Fit-Funktionen gemäß Gl. (\ref{eq:Fit_Covergröße}) für alle Covergrößen $c\in[0.4,8]$.}
+\label{fig:Anhang_Mod4_AllePDFs}
 \end{figure}
