@@ -1,0 +1,42 @@
+
+\begin{figure}[htb]
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{Abb/Modul3/Geschw//Mean_Turb/Gross_mean.png}
+    \caption{}
+    \label{fig:Mod3_v3_mean}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{Abb/Modul3/Geschw//Mean_Turb/Mittel_mean.png}    
+    \caption{}
+    \label{fig:Mod3_v5_mean}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{Abb/Modul3/Geschw//Mean_Turb/Klein_mean.png}
+    \caption{}
+    \label{fig:Mod3_v6_mean}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{Abb/Modul3/Geschw//Mean_Turb/Gross_turb_int.png}
+    \caption{}
+    \label{fig:Mod3_v3_turb}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{Abb/Modul3/Geschw//Mean_Turb/Mittel_turb_int.png}
+    \caption{}
+    \label{fig:Mod3_v5_turb}
+\end{subfigure}
+\begin{subfigure}{0.32\textwidth}
+    \centering
+    \includegraphics[width=\linewidth]{Abb/Modul3/Geschw//Mean_Turb/Klein_turb_int.png}
+    \caption{}
+    \label{fig:Mod3_v6_turb}
+\end{subfigure}
+\caption{(a)-(c) Mittlere Windgeschwindigkeiten hinter der MoWiTO-Anlage für verschiedene Anfangs-Windgeschwindigkeiten $v\in\{3,5,6\} m/s$. (d)-(f) Turbulenzintensitäten in Abhängigkeit des Abstandes $D$.}
+\label{fig:Mod3_versch_Geschw}
+\end{figure}
